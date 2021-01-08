@@ -1,0 +1,11 @@
+.btn2{
+  font-size:14px;
+  width:155px;
+  height:37px;
+  writing-mode:horizontal-tb;
+  color:white;
+  padding:11px 36px 12px 35px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  background: transparent linear-gradient(90deg, #FA41CC 0%, #6020B0 100%) 0% 0% no-repeat padding-box;
+}
